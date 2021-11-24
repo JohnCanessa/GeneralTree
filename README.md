@@ -13,7 +13,7 @@ If interested in a better description of the problem and my
 approach to solve it, I invite you to read the following post
 in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/11/24/find-leaf-nodes-in-a-tree-for-which-the-sum-of-the-root-path-matches-a-target-value/
 
 Keep in mind that one of the best ways to learn is to read and
 experiment. Practice should mek you perfect; at least that is what
